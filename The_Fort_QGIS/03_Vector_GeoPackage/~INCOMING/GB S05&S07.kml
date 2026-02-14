@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>GB S05&amp;S07.kml</name>
+	<Style id="default">
+	</Style>
+	<StyleMap id="default0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="hl">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>GB S05&amp;S07</name>
+		<styleUrl>#default0</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>GroundBlind 05-07</value>
+			</Data>
+			<Data name="notes">
+			</Data>
+			<Data name="id">
+				<value>8423ba07-d869-47fc-819b-7545fec1cbae</value>
+			</Data>
+			<Data name="color">
+				<value>rgba(128, 0, 128, 1)</value>
+			</Data>
+			<Data name="icon">
+				<value>Blind</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.47996500000001,34.570573,0</coordinates>
+		</Point>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	</Placemark>
+</Document>
+</kml>

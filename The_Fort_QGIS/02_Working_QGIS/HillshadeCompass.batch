@@ -1,0 +1,93 @@
+{
+  "format": "batch_3.40",
+  "rows": [
+    {
+      "PARAMETERS": {
+        "INPUT": "F:/The_Fort/The_Fort_QGIS/01_Source_Raw/Digital Terrain Model/RockSpringRd_DTM_1inch_elev.tif",
+        "Z_FACTOR": 1.0,
+        "AZIMUTH": 0.0,
+        "V_ANGLE": 40.0
+      },
+      "OUTPUTS": {
+        "OUTPUT": "F:/The_Fort/The_Fort_QGIS/02_Working_QGIS/RSP_Hill_1in_000deg.tif"
+      }
+    },
+    {
+      "PARAMETERS": {
+        "INPUT": "F:/The_Fort/The_Fort_QGIS/01_Source_Raw/Digital Terrain Model/RockSpringRd_DTM_1inch_elev.tif",
+        "Z_FACTOR": 1.0,
+        "AZIMUTH": 45.0,
+        "V_ANGLE": 40.0
+      },
+      "OUTPUTS": {
+        "OUTPUT": "F:/The_Fort/The_Fort_QGIS/02_Working_QGIS/RSP_Hill_1in_045deg.tif"
+      }
+    },
+    {
+      "PARAMETERS": {
+        "INPUT": "F:/The_Fort/The_Fort_QGIS/01_Source_Raw/Digital Terrain Model/RockSpringRd_DTM_1inch_elev.tif",
+        "Z_FACTOR": 1.0,
+        "AZIMUTH": 90.0,
+        "V_ANGLE": 40.0
+      },
+      "OUTPUTS": {
+        "OUTPUT": "F:/The_Fort/The_Fort_QGIS/02_Working_QGIS/RSP_Hill_1in_090deg.tif"
+      }
+    },
+    {
+      "PARAMETERS": {
+        "INPUT": "F:/The_Fort/The_Fort_QGIS/01_Source_Raw/Digital Terrain Model/RockSpringRd_DTM_1inch_elev.tif",
+        "Z_FACTOR": 1.0,
+        "AZIMUTH": 135.0,
+        "V_ANGLE": 40.0
+      },
+      "OUTPUTS": {
+        "OUTPUT": "F:/The_Fort/The_Fort_QGIS/02_Working_QGIS/RSP_Hill_1in_135deg.tif"
+      }
+    },
+    {
+      "PARAMETERS": {
+        "INPUT": "F:/The_Fort/The_Fort_QGIS/01_Source_Raw/Digital Terrain Model/RockSpringRd_DTM_1inch_elev.tif",
+        "Z_FACTOR": 1.0,
+        "AZIMUTH": 180.0,
+        "V_ANGLE": 40.0
+      },
+      "OUTPUTS": {
+        "OUTPUT": "F:/The_Fort/The_Fort_QGIS/02_Working_QGIS/RSP_Hill_1in_180deg.tif"
+      }
+    },
+    {
+      "PARAMETERS": {
+        "INPUT": "F:/The_Fort/The_Fort_QGIS/01_Source_Raw/Digital Terrain Model/RockSpringRd_DTM_1inch_elev.tif",
+        "Z_FACTOR": 1.0,
+        "AZIMUTH": 225.0,
+        "V_ANGLE": 40.0
+      },
+      "OUTPUTS": {
+        "OUTPUT": "F:/The_Fort/The_Fort_QGIS/02_Working_QGIS/RSP_Hill_1in_225deg.tif"
+      }
+    },
+    {
+      "PARAMETERS": {
+        "INPUT": "F:/The_Fort/The_Fort_QGIS/01_Source_Raw/Digital Terrain Model/RockSpringRd_DTM_1inch_elev.tif",
+        "Z_FACTOR": 1.0,
+        "AZIMUTH": 270.0,
+        "V_ANGLE": 40.0
+      },
+      "OUTPUTS": {
+        "OUTPUT": "F:/The_Fort/The_Fort_QGIS/02_Working_QGIS/RSP_Hill_1in_270deg.tif"
+      }
+    },
+    {
+      "PARAMETERS": {
+        "INPUT": "F:/The_Fort/The_Fort_QGIS/01_Source_Raw/Digital Terrain Model/RockSpringRd_DTM_1inch_elev.tif",
+        "Z_FACTOR": 1.0,
+        "AZIMUTH": 315.0,
+        "V_ANGLE": 40.0
+      },
+      "OUTPUTS": {
+        "OUTPUT": "F:/The_Fort/The_Fort_QGIS/02_Working_QGIS/RSP_Hill_1in_315deg.tif"
+      }
+    }
+  ]
+}

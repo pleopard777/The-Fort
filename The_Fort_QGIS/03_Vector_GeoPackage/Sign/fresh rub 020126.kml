@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>fresh rub 020126.kml</name>
+	<Style id="default4">
+	</Style>
+	<StyleMap id="default5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="hl">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Fresh Rub 02/01/26</name>
+		<visibility>0</visibility>
+		<styleUrl>#default5</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>fresh rub 02/01/26</value>
+			</Data>
+			<Data name="notes">
+			</Data>
+			<Data name="id">
+				<value>bcf4bf94-e619-4fb4-bd48-1ed01fc3dc75</value>
+			</Data>
+			<Data name="color">
+				<value>rgba(0,0,0,1)</value>
+			</Data>
+			<Data name="icon">
+				<value>Location</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.478768,34.571477,0</coordinates>
+		</Point>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	</Placemark>
+</Document>
+</kml>

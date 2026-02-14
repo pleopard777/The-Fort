@@ -1,0 +1,8 @@
+# SEQ_IMG_TEMPLATE.kvp
+# Key/Value configuration for SEQ_IMG_TEMPLATE.py
+# Lines starting with # or ; are comments.
+# Format: key = value
+# Values may be quoted or unquoted.
+
+aerial_log_file = F:/The_Fort/The_Fort_QGIS/01_Source_Raw/Aerial Images/AerialImages_referenceinfo_121425_converted.csv
+sequences_path  = F:/The_Fort/The_Fort_QGIS/01_Source_Raw/Aerial Images/Sequenced

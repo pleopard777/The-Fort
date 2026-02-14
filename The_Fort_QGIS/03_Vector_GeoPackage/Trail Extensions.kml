@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Trail Extensions.kml</name>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin60">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<LineStyle>
+			<color>ffff0055</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Trail Extensions</name>
+		<open>1</open>
+		<Placemark>
+			<name>EXT-001</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-86.47790167447845,34.57162785869671,0 -86.4780358325503,34.57145964402049,0 -86.47815487771551,34.57137118380837,0 -86.47820723860532,34.57128867562388,0 -86.47818976284543,34.57108293922978,0 -86.47815911693195,34.57091815310825,0 -86.47820261014809,34.57084316395741,0 -86.47824997525275,34.57073572498054,0 -86.47831303084584,34.57074507674672,0 -86.47841766100099,34.57059607585931,0 -86.47847870472783,34.57056102093935,0 -86.47855595229676,34.57041458452795,0 -86.47857740109629,34.57028298499491,0 -86.47857895648612,34.57017966483694,0 -86.47861986135658,34.57017684804006,0 -86.47870316312256,34.57021762192675,0 -86.4787288672739,34.57023322573213,0 -86.47874559328174,34.57028311318091,0 -86.47872176940335,34.57032704926475,0 -86.47873220232631,34.5704045067228,0 -86.47878590167498,34.57039358830713,0 -86.47896833624826,34.5704788893605,0 -86.47899784799948,34.57052111852646,0 -86.47910664968903,34.57060040770987,0 -86.47910129939829,34.57070909231082,0 -86.47913107497062,34.57079184028182,0 -86.47917718154542,34.57082252191713,0 -86.479191624263,34.57094771451496,0 -86.47922319223429,34.57097560077838,0 -86.47922303717786,34.57103111333524,0 -86.47926382882655,34.57103948416353,0 -86.47940218547576,34.5710520572771,0 -86.47944845223783,34.57117266786593,0 -86.47951251378643,34.57126999507479,0 -86.47950264468754,34.57129501979934,0 -86.47955140320846,34.57141239428495,0 -86.47957476393333,34.57160457696581,0 -86.47869718499575,34.57158411058266,0 -86.47793734607649,34.57163312419114,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>EXT-002</name>
+			<styleUrl>#msn_ylw-pushpin20</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-86.47951109958174,34.5712699123327,0 -86.47978371432571,34.57119927261349,0 -86.47970100384532,34.57081891988045,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	</Folder>
+</Document>
+</kml>

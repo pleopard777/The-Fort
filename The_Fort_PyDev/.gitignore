@@ -1,0 +1,5 @@
+.spyproject
+%localappdata%
+*.pyc
+*$py.class
+__pycache__

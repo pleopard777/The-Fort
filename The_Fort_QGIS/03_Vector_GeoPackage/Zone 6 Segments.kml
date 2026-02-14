@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Zone 6 Segments.kml</name>
+	<Style id="segStyle">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f0000ff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Zone 6 Segments</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>SG-13</name>
+			<visibility>0</visibility>
+			<styleUrl>#segStyle</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-86.48002624999999,34.570891,0 -86.479653813,34.570892125,0 -86.479664016,34.570706047,0 -86.480034562,34.570705813,0 -86.48002624999999,34.570891,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SG-09</name>
+			<visibility>0</visibility>
+			<styleUrl>#segStyle</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-86.479653813,34.570892125,0 -86.479281375,34.57089325,0 -86.479293469,34.570706281,0 -86.479664016,34.570706047,0 -86.479653813,34.570892125,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SG-05</name>
+			<visibility>0</visibility>
+			<styleUrl>#segStyle</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-86.479281375,34.57089325,0 -86.478908937,34.570894375,0 -86.478922922,34.570706516,0 -86.479293469,34.570706281,0 -86.479281375,34.57089325,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SG-01</name>
+			<visibility>0</visibility>
+			<styleUrl>#segStyle</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-86.478908937,34.570894375,0 -86.4785365,34.5708955,0 -86.47855237500001,34.57070675,0 -86.478922922,34.570706516,0 -86.478908937,34.570894375,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SG-14</name>
+			<visibility>0</visibility>
+			<styleUrl>#segStyle</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-86.480034562,34.570705813,0 -86.479664016,34.570706047,0 -86.479674219,34.570519969,0 -86.480042875,34.570520625,0 -86.480034562,34.570705813,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SG-10</name>
+			<visibility>0</visibility>
+			<styleUrl>#segStyle</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-86.479664016,34.570706047,0 -86.479293469,34.570706281,0 -86.479305563,34.570519312,0 -86.479674219,34.570519969,0 -86.479664016,34.570706047,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SG-06</name>
+			<visibility>0</visibility>
+			<styleUrl>#segStyle</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-86.479293469,34.570706281,0 -86.478922922,34.570706516,0 -86.478936906,34.570518656,0 -86.479305563,34.570519312,0 -86.479293469,34.570706281,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SG-02</name>
+			<visibility>0</visibility>
+			<styleUrl>#segStyle</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-86.478922922,34.570706516,0 -86.47855237500001,34.57070675,0 -86.47856825,34.570518,0 -86.478936906,34.570518656,0 -86.478922922,34.570706516,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SG-15</name>
+			<visibility>0</visibility>
+			<styleUrl>#segStyle</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-86.480042875,34.570520625,0 -86.479674219,34.570519969,0 -86.47968442200001,34.570333891,0 -86.480051187,34.570335437,0 -86.480042875,34.570520625,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SG-11</name>
+			<visibility>0</visibility>
+			<styleUrl>#segStyle</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-86.479674219,34.570519969,0 -86.479305563,34.570519312,0 -86.47931765600001,34.570332344,0 -86.47968442200001,34.570333891,0 -86.479674219,34.570519969,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SG-07</name>
+			<visibility>0</visibility>
+			<styleUrl>#segStyle</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-86.479305563,34.570519312,0 -86.478936906,34.570518656,0 -86.478950891,34.570330797,0 -86.47931765600001,34.570332344,0 -86.479305563,34.570519312,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SG-03</name>
+			<visibility>0</visibility>
+			<styleUrl>#segStyle</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-86.478936906,34.570518656,0 -86.47856825,34.570518,0 -86.478584125,34.57032925,0 -86.478950891,34.570330797,0 -86.478936906,34.570518656,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SG-16</name>
+			<visibility>0</visibility>
+			<styleUrl>#segStyle</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-86.480051187,34.570335437,0 -86.47968442200001,34.570333891,0 -86.47969462499999,34.570147812,0 -86.4800595,34.57015025,0 -86.480051187,34.570335437,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SG-12</name>
+			<visibility>0</visibility>
+			<styleUrl>#segStyle</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-86.47968442200001,34.570333891,0 -86.47931765600001,34.570332344,0 -86.47932975000001,34.570145375,0 -86.47969462499999,34.570147812,0 -86.47968442200001,34.570333891,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SG-08</name>
+			<visibility>0</visibility>
+			<styleUrl>#segStyle</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-86.47931765600001,34.570332344,0 -86.478950891,34.570330797,0 -86.478964875,34.570142938,0 -86.47932975000001,34.570145375,0 -86.47931765600001,34.570332344,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>SG-04</name>
+			<visibility>0</visibility>
+			<styleUrl>#segStyle</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-86.478950891,34.570330797,0 -86.478584125,34.57032925,0 -86.4786,34.5701405,0 -86.478964875,34.570142938,0 -86.478950891,34.570330797,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	</Folder>
+</Document>
+</kml>

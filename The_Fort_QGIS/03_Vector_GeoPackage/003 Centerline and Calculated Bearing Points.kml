@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Centerline CNT-W to CNT-E</name>
+
+    <Style id="cntWaypoint">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.0</scale>
+      </LabelStyle>
+    </Style>
+
+    <Style id="centerlineStyle">
+      <LineStyle>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+
+    <Placemark>
+      <name>CNT-W</name>
+      <styleUrl>#cntWaypoint</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-86.481516,34.5708865,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>CNT-E</name>
+      <styleUrl>#cntWaypoint</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>-86.475557,34.5709045,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Centerline</name>
+      <styleUrl>#centerlineStyle</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>
+          -86.481516,34.5708865,0
+          -86.475557,34.5709045,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+  </Document>
+</kml>

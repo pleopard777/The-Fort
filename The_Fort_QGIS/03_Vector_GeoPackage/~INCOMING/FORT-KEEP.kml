@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FORT-KEEP.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>FORT-KEEP</name>
+		<Placemark>
+			<name>Cave #2 Entrance</name>
+			<ExtendedData>
+				<Data name="name">
+					<value>cave 2 entrance</value>
+				</Data>
+				<Data name="notes">
+				</Data>
+				<Data name="id">
+					<value>a68e6e6e-d22a-428b-b094-6351d307fbe7</value>
+				</Data>
+				<Data name="color">
+					<value>rgba(8, 122, 255, 1)</value>
+				</Data>
+				<Data name="icon">
+					<value>Point of Interest</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.475978,34.570953,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WGI-003</name>
+			<ExtendedData>
+				<Data name="name">
+					<value>wg3 pulled for batteries</value>
+				</Data>
+				<Data name="notes">
+				</Data>
+				<Data name="id">
+					<value>b2500bb4-c53f-4963-9919-659489be20bf</value>
+				</Data>
+				<Data name="color">
+					<value>rgba(128, 0, 128, 1)</value>
+				</Data>
+				<Data name="icon">
+					<value>Location</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.476513,34.570144,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WGI-002</name>
+			<ExtendedData>
+				<Data name="name">
+					<value>wg2</value>
+				</Data>
+				<Data name="notes">
+				</Data>
+				<Data name="id">
+					<value>ea90c355-1a4f-42c9-9ffd-d4347e2a5450</value>
+				</Data>
+				<Data name="color">
+					<value>rgba(128, 0, 128, 1)</value>
+				</Data>
+				<Data name="icon">
+					<value>Location</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.476561,34.570917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SPY-006</name>
+			<ExtendedData>
+				<Data name="name">
+					<value>sp6 yes</value>
+				</Data>
+				<Data name="notes">
+				</Data>
+				<Data name="id">
+					<value>a33c2582-4da1-414b-bc96-7061f2b6bcf8</value>
+				</Data>
+				<Data name="color">
+					<value>rgba(8, 122, 255, 1)</value>
+				</Data>
+				<Data name="icon">
+					<value>Trail Cam</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.47980699999999,34.570499,257.950012</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SPY-002</name>
+			<ExtendedData>
+				<Data name="name">
+					<value>sp2</value>
+				</Data>
+				<Data name="notes">
+				</Data>
+				<Data name="id">
+					<value>5d370ddc-bb0a-4062-b232-37b23c547d61</value>
+				</Data>
+				<Data name="color">
+					<value>rgba(8, 122, 255, 1)</value>
+				</Data>
+				<Data name="icon">
+					<value>Trail Cam</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.48001499999999,34.570749,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WGI-001</name>
+			<ExtendedData>
+				<Data name="name">
+					<value>wg1</value>
+				</Data>
+				<Data name="notes">
+				</Data>
+				<Data name="id">
+					<value>6daa09d6-742e-4d82-a426-499f577625a2</value>
+				</Data>
+				<Data name="color">
+					<value>rgba(128, 0, 128, 1)</value>
+				</Data>
+				<Data name="icon">
+					<value>Location</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.476237,34.570712,180.25</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TSI_Candidate 001</name>
+			<ExtendedData>
+				<Data name="name">
+					<value>great spot to exp w TSI</value>
+				</Data>
+				<Data name="notes">
+				</Data>
+				<Data name="id">
+					<value>d6247317-8273-46db-9fc7-7ecca530aa5f</value>
+				</Data>
+				<Data name="color">
+					<value>rgba(8, 122, 255, 1)</value>
+				</Data>
+				<Data name="icon">
+					<value>Location</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.478852,34.571551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rub 2/1/2026 #1</name>
+			<ExtendedData>
+				<Data name="name">
+					<value>fresh rub 02/01/26</value>
+				</Data>
+				<Data name="notes">
+				</Data>
+				<Data name="id">
+					<value>5b6cf4a6-138f-48e1-b1f9-d9a891853f24</value>
+				</Data>
+				<Data name="color">
+					<value>rgba(0, 0, 0, 1)</value>
+				</Data>
+				<Data name="icon">
+					<value>Location</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.47968400000001,34.571598,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rub 2/1/2026 #2</name>
+			<ExtendedData>
+				<Data name="name">
+					<value>fresh rub 02/01/26</value>
+				</Data>
+				<Data name="notes">
+				</Data>
+				<Data name="id">
+					<value>bcf4bf94-e619-4fb4-bd48-1ed01fc3dc75</value>
+				</Data>
+				<Data name="color">
+					<value>rgba(0, 0, 0, 1)</value>
+				</Data>
+				<Data name="icon">
+					<value>Location</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.478768,34.571477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GBlind for Cams 005 &amp; 007</name>
+			<ExtendedData>
+				<Data name="name">
+					<value>GroundBlind 05-07</value>
+				</Data>
+				<Data name="notes">
+				</Data>
+				<Data name="id">
+					<value>8423ba07-d869-47fc-819b-7545fec1cbae</value>
+				</Data>
+				<Data name="color">
+					<value>rgba(128, 0, 128, 1)</value>
+				</Data>
+				<Data name="icon">
+					<value>Blind</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.47996500000001,34.570573,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PTH-XX</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-86.48067071190161,34.57105368752924,0 -86.48068751938006,34.57109269916468,0 -86.48069201868753,34.57113736381652,0 -86.48071000402609,34.57118386024835,0 -86.48077183425849,34.57134677607882,0 -86.4807716484811,34.57135420707387,0 -86.48078709202198,34.57147916760636,0 -86.48074630070502,34.57145837195078,0 -86.4807024913665,34.57144240594082,0 -86.48053955249515,34.57147020237156,0 -86.48052046153117,34.57151074354422,0 -86.48045279415159,34.57159292404643,0 -86.48025975168402,34.57152275681631,0 -86.4801521248053,34.57153065982173,0 -86.48013726889208,34.57149523784175,0 -86.4800395512831,34.57151077719603,0 -86.4799989578127,34.57149620847743,0 -86.47997060135205,34.57153101484726,0 -86.47992606644563,34.57154889851635,0 -86.47987289284805,34.57154560997841,0 -86.47984079504116,34.5715819793723,0 -86.47925166149413,34.57161956523941,0 -86.47908297189595,34.57159698530698,0 -86.47901151729498,34.57153513522501,0 -86.47897167623211,34.57157195725399,0 -86.47889680590615,34.57158438012442,0 -86.47886390480065,34.57155959242168,0 -86.47881248633048,34.57154642267194,0 -86.47877718581142,34.57151737346559,0 -86.47876154471257,34.57146899050625,0 -86.4787556167603,34.5714341808224,0 -86.47869849860211,34.57140078366026,0 -86.47873897111852,34.57137691297863,0 -86.47869972932764,34.57133727782717,0 -86.47866618790042,34.57133140201647,0 -86.4786513805832,34.5713095772951,0 -86.47865073554526,34.57127208597311,0 -86.47868319416065,34.57124672884455,0 -86.47869780547499,34.5711585106552,0 -86.4786873610996,34.57110178167716,0 -86.47870956731339,34.57103059494674,0 -86.47863120027633,34.57096393185172,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	</Folder>
+</Document>
+</kml>

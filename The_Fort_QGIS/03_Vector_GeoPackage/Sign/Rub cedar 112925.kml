@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Rub cedar 112925.kml</name>
+	<StyleMap id="msn_D0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_D0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_D0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_D">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>Rub cedar 11/29/25</name>
+		<visibility>0</visibility>
+		<styleUrl>#msn_D0</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>Rub cedar 11/29/25</value>
+			</Data>
+			<Data name="notes">
+			</Data>
+			<Data name="id">
+				<value>8852e331-a709-40f4-9f00-dda2f6bc8ae8</value>
+			</Data>
+			<Data name="color">
+				<value>rgba(0,255,255,1)</value>
+			</Data>
+			<Data name="icon">
+				<value>Rub</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.47973399999999,34.570659,0</coordinates>
+		</Point>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	</Placemark>
+</Document>
+</kml>

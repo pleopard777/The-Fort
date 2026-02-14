@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Buck Jump 112925 1136.kml</name>
+	<StyleMap id="msn_D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_D0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_D">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_D0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Placemark>
+		<name>Buck Jump 11/29/25 11:36</name>
+		<visibility>0</visibility>
+		<styleUrl>#msn_D</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>Buck Jump 11/29/25 11:36</value>
+			</Data>
+			<Data name="notes">
+			</Data>
+			<Data name="id">
+				<value>648b6202-a245-4c50-8753-15f171ff933a</value>
+			</Data>
+			<Data name="color">
+				<value>rgba(255,51,0,1)</value>
+			</Data>
+			<Data name="icon">
+				<value>Buck</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.47812999999999,34.57033,0</coordinates>
+		</Point>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	</Placemark>
+</Document>
+</kml>

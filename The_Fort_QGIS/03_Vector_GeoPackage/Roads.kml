@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Roads.kml</name>
+	<StyleMap id="clearPoly">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#clearPoly0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#clearPoly1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="clearPoly0">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7d00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="clearPoly1">
+		<LineStyle>
+			<color>ff0000ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7d00ff00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="clearingStyle">
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="clearingStyle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#clearingStyle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#clearingStyle1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="clearingStyle1">
+		<LineStyle>
+			<color>ff0055ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin014">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin21">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Roads</name>
+		<open>1</open>
+		<Placemark>
+			<name>Clearing corridor (buffered 40 ft wide, clipped to property boundary)</name>
+			<description>XWidth = 40 ft (cleared corridor).
+This polygon is a 20-ft buffer around the RoadEstimate centerline, clipped to stay inside the property boundary.</description>
+			<styleUrl>#clearingStyle0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-86.47620607,34.57012527,0 -86.47621097,34.57012914,0 -86.47621537000001,34.5701334,0 -86.47625476,34.57017575,0 -86.47625524999999,34.57017627,0 -86.47630243,34.57022827,0 -86.47630583,34.57023239,0 -86.47630875999999,34.57023676,0 -86.47631121000001,34.57024133,0 -86.47633722,34.57029662,0 -86.47636668,34.57034224,0 -86.47636971999999,34.57034761,0 -86.47637202999999,34.57035322,0 -86.4763736,34.57035901,0 -86.47637441000001,34.5703649,0 -86.47637825,34.57041855,0 -86.47638587,34.57047863,0 -86.47638623,34.57048469,0 -86.47638578,34.57049075,0 -86.47637801,34.5705457,0 -86.47637693999999,34.57055102,0 -86.47637524,34.57055623,0 -86.47637293,34.57056128,0 -86.47637003,34.57056611,0 -86.47636658,34.57057069,0 -86.4763626,34.57057496,0 -86.47635812999999,34.57057889,0 -86.47635321999999,34.57058244,0 -86.47634791,34.57058558,0 -86.47634226,34.57058826,0 -86.47633630999999,34.57059048,0 -86.47633012999999,34.57059221,0 -86.47632378,34.57059342,0 -86.47631731,34.57059412,0 -86.47631079,34.57059428,0 -86.47630429,34.57059392,0 -86.47629784999999,34.57059303,0 -86.47629156000001,34.57059162,0 -86.47628546,34.57058971,0 -86.47627961000001,34.57058732,0 -86.47627408,34.57058446,0 -86.47626892,34.57058117,0 -86.47626416,34.57057748,0 -86.47625987000001,34.57057341,0 -86.47625608,34.57056902,0 -86.47625283000001,34.57056434,0 -86.47625015,34.57055943,0 -86.47624807,34.57055431,0 -86.4762466,34.57054906,0 -86.47624576,34.57054371,0 -86.47624556,34.57053832,0 -86.476246,34.57053293,0 -86.47625291,34.57048404,0 -86.4762459,34.57042878,0 -86.47624565,34.57042629,0 -86.47624259,34.57038342,0 -86.47621811,34.57034553,0 -86.47621479999999,34.57033956,0 -86.47619065000001,34.57028823,0 -86.47614919,34.57024254,0 -86.47611628999999,34.57020717,0 -86.47607791999999,34.57018504,0 -86.47571536,34.57017986,0 -86.47570885,34.5701795,0 -86.47570242,34.57017862,0 -86.47569611999999,34.57017722,0 -86.47569002,34.57017531,0 -86.47568416999999,34.57017292,0 -86.47567864,34.57017007,0 -86.47567347,34.57016678,0 -86.47566899,34.57016331,0 -86.47568099999999,34.570121,0 -86.47620488,34.57012451,0 -86.47620607,34.57012527,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Clearing Corridor (Variable Width)</name>
+			<description><![CDATA[Base cleared width: 40 ft (20 ft each side).<br/>
+      Widened zone: 60 ft (30 ft each side) for ~140 ft centered on tightest curvature point.<br/>
+      Clipped to property boundary.]]></description>
+			<styleUrl>#clearPoly</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-86.47624756499999,34.57016801,0 -86.47627389900001,34.570151247,0 -86.476281462,34.570159377,0 -86.476337214,34.570220816,0 -86.47636746400001,34.570285116,0 -86.476406291,34.570345228,0 -86.476411373,34.570416301,0 -86.47642007,34.570484854,0 -86.476411016,34.570548896,0 -86.476378013,34.570545704,0 -86.476312005,34.570539319,0 -86.476212995,34.570529742,0 -86.47621947899999,34.570483871,0 -86.476212617,34.570429782,0 -86.476209849,34.570391056,0 -86.47618599499999,34.570354126,0 -86.476161339,34.570301718,0 -86.476122731,34.570259171,0 -86.476115897,34.570251825,0 -86.476142231,34.570235062,0 -86.476116285,34.570207172,0 -86.476077918,34.570185039,0 -86.47571535900001,34.570179861,0 -86.47571658299999,34.570121239,0 -86.47620535599999,34.570124514,0 -86.476209123,34.570126687,0 -86.47624756499999,34.57016801,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Old Road</name>
+			<styleUrl>#msn_ylw-pushpin014</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-86.47649796132153,34.57016711701343,0 -86.47648790697524,34.57023480148479,0 -86.47643162242973,34.57036151063645,0 -86.47627260708516,34.57055981025232,0 -86.47620472288277,34.57064323348,0 -86.47620315022284,34.57068312817619,0 -86.47619393991536,34.5707074921138,0 -86.47614415703107,34.57087308952486,0 -86.47601252196479,34.57103720653014,0 -86.47601111135663,34.57103909630912,0 -86.47590525879106,34.57117562663288,0 -86.47584614236607,34.5713182026598,0 -86.4758454690424,34.57131917473024,0 -86.47580953764398,34.57142683049559,0 -86.4758085829757,34.57142983354237,0 -86.47580681396546,34.57143227355665,0 -86.47583679684516,34.57156360695754,0 -86.47588945730378,34.57169406339723,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	</Folder>
+</Document>
+</kml>

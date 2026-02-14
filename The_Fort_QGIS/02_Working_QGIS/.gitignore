@@ -1,0 +1,3 @@
+# ignore all tif files in this folder
+*.tif
+*.tiff

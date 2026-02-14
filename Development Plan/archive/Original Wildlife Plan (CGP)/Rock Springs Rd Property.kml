@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Rock Springs Rd Property.kml</name>
+	<Style id="callStyle">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="camStyle">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="camStyle0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="camStyle1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#camStyle6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#camStyle8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="camStyle10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="camStyle11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#camStyle10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#camStyle12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="camStyle12">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="camStyle13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="camStyle14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="camStyle15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="camStyle16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#camStyle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#camStyle13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="camStyle2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="camStyle3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#camStyle14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#camStyle4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="camStyle4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="camStyle5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="camStyle6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="camStyle7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#camStyle2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#camStyle15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="camStyle8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="camStyle9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#camStyle0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#camStyle5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="lineStyle">
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="ppStyle">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/purple-blank.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>1aff0055</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>1aff0055</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Rock Springs Rd Property</name>
+		<open>1</open>
+		<Document>
+			<name>Whitetail Layout (Starter Plan)</name>
+			<open>1</open>
+			<Style id="style_access">
+				<LineStyle>
+					<color>ff00ffff</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+				</PolyStyle>
+			</Style>
+			<Style id="style_feather">
+				<LineStyle>
+					<color>ff00a5ff</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+				</PolyStyle>
+			</Style>
+			<Style id="style_plot">
+				<LineStyle>
+					<color>ff0000ff</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>660000ff</color>
+				</PolyStyle>
+			</Style>
+			<Style id="style_sanctuary">
+				<LineStyle>
+					<color>ff008000</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>66008000</color>
+				</PolyStyle>
+			</Style>
+			<Style id="style_screen">
+				<LineStyle>
+					<color>ff00ff00</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+				</PolyStyle>
+			</Style>
+			<Style id="style_screen0">
+				<LineStyle>
+					<color>ff00ff00</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="style_screen1">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#style_screen2</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#style_screen0</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="style_screen2">
+				<LineStyle>
+					<color>ff00ff00</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+				</PolyStyle>
+			</Style>
+			<Style id="style_screen3">
+				<LineStyle>
+					<color>ff00ff00</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="style_screen4">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#style_screen6</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#style_screen5</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="style_screen5">
+				<LineStyle>
+					<color>ff00ff00</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+				</PolyStyle>
+			</Style>
+			<Style id="style_screen6">
+				<LineStyle>
+					<color>ff00ff00</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>00000000</color>
+				</PolyStyle>
+			</Style>
+			<StyleMap id="style_screen7">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#style_screen3</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#style_screen</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="style_stand">
+				<LineStyle>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>33ffffff</color>
+				</PolyStyle>
+			</Style>
+			<Folder>
+				<name>Sanctuary (No-Entry Sep–Jan)</name>
+				<Placemark>
+					<name>Sanctuary Core</name>
+					<styleUrl>#style_sanctuary</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-86.4800063,34.5705252,0 -86.4769628,34.5705252,0 -86.4769628,34.5713198,0 -86.4800063,34.5713198,0 -86.4800063,34.5705252,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Food Plots (Starter Layout)</name>
+				<Placemark>
+					<name>Destination Plot (~0.6–0.8 ac est.)</name>
+					<styleUrl>#style_plot</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-86.4777541,34.570414,0 -86.4761714,34.570414,0 -86.4761714,34.5706683,0 -86.4777541,34.5706683,0 -86.4777541,34.570414,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>Microplot 1 (~0.2–0.3 ac est.)</name>
+					<styleUrl>#style_plot</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-86.4806758,34.5712085,0 -86.47994540000001,34.5712085,0 -86.47994540000001,34.5713356,0 -86.4806758,34.5713356,0 -86.4806758,34.5712085,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>Microplot 2 (~0.2–0.3 ac est.)</name>
+					<styleUrl>#style_plot</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-86.4809193,34.5707636,0 -86.4801889,34.5707636,0 -86.4801889,34.5708907,0 -86.4809193,34.5708907,0 -86.4809193,34.5707636,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Edge Feathering (soft edges)</name>
+				<Placemark>
+					<name>Destination Plot – Feather South</name>
+					<styleUrl>#style_feather</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-86.4777541,34.5704013,0 -86.4761714,34.5704013,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Destination Plot – Feather North</name>
+					<styleUrl>#style_feather</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-86.4777541,34.570681,0 -86.4761714,34.570681,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Destination Plot – Feather West</name>
+					<styleUrl>#style_feather</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-86.47783320000001,34.570414,0 -86.47783320000001,34.5706683,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Destination Plot – Feather East</name>
+					<styleUrl>#style_feather</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-86.4760923,34.570414,0 -86.4760923,34.5706683,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Microplot 1 – Feather South</name>
+					<styleUrl>#style_feather</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-86.4806758,34.5712022,0 -86.47994540000001,34.5712022,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Microplot 1 – Feather North</name>
+					<styleUrl>#style_feather</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-86.4806758,34.571342,0 -86.47994540000001,34.571342,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Microplot 1 – Feather West</name>
+					<styleUrl>#style_feather</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-86.48071229999999,34.5712085,0 -86.48071229999999,34.5713356,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Microplot 1 – Feather East</name>
+					<styleUrl>#style_feather</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-86.4799089,34.5712085,0 -86.4799089,34.5713356,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Microplot 2 – Feather South</name>
+					<styleUrl>#style_feather</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-86.4809193,34.5707572,0 -86.4801889,34.5707572,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Microplot 2 – Feather North</name>
+					<styleUrl>#style_feather</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-86.4809193,34.5708971,0 -86.4801889,34.5708971,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Microplot 2 – Feather West</name>
+					<styleUrl>#style_feather</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-86.4809558,34.5707636,0 -86.4809558,34.5708907,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Microplot 2 – Feather East</name>
+					<styleUrl>#style_feather</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-86.4801523,34.5707636,0 -86.4801523,34.5708907,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Screens (Cedar/Grass/Shortleaf Mix)</name>
+				<Placemark>
+					<name>Screen – Destination Plot Approach</name>
+					<styleUrl>#style_screen4</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-86.4781497,34.5705411,0 -86.4777541,34.5705411,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Screen – Microplot 1 West</name>
+					<styleUrl>#style_screen1</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-86.480968,34.5712721,0 -86.4806758,34.5712721,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Screen – Microplot 2 West</name>
+					<styleUrl>#style_screen7</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-86.4812115,34.5708272,0 -86.4809193,34.5708272,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Stand Sites (Adjust for Wind &amp; Access)</name>
+				<Placemark>
+					<name>Destination Plot – NE Corner Stand</name>
+					<styleUrl>#style_stand</styleUrl>
+					<Point>
+						<coordinates>-86.4761714,34.5706683,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Destination Plot – SW Corner Stand</name>
+					<styleUrl>#style_stand</styleUrl>
+					<Point>
+						<coordinates>-86.4777541,34.570414,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Microplot 1 – NE Corner Stand</name>
+					<styleUrl>#style_stand</styleUrl>
+					<Point>
+						<coordinates>-86.47994540000001,34.5713356,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Microplot 1 – SW Corner Stand</name>
+					<styleUrl>#style_stand</styleUrl>
+					<Point>
+						<coordinates>-86.4806758,34.5712085,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Microplot 2 – NE Corner Stand</name>
+					<styleUrl>#style_stand</styleUrl>
+					<Point>
+						<coordinates>-86.4801889,34.5708907,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Microplot 2 – SW Corner Stand</name>
+					<styleUrl>#style_stand</styleUrl>
+					<Point>
+						<coordinates>-86.4809193,34.5707636,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Suggested Quiet Access (Refine on the Ground)</name>
+				<Placemark>
+					<name>Access – To Destination Plot</name>
+					<styleUrl>#style_access</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-86.481528,34.5709225,0 -86.4777541,34.5705411,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Access – To Microplot 1</name>
+					<styleUrl>#style_access</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-86.481528,34.5709225,0 -86.4806758,34.5712721,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+				<Placemark>
+					<name>Access – To Microplot 2</name>
+					<styleUrl>#style_access</styleUrl>
+					<LineString>
+						<tessellate>1</tessellate>
+						<coordinates>
+							-86.481528,34.5709225,0 -86.4809193,34.5708272,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+		</Document>
+		<Folder>
+			<name>Vegetation</name>
+			<Placemark>
+				<name>Pine Thicket</name>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								-86.47561224290281,34.57053116135528,0 -86.47568523630277,34.57060617565092,0 -86.47569326335447,34.57066830608962,0 -86.47574531751496,34.57067464442351,0 -86.47574540265386,34.57062884811944,0 -86.475777460244,34.57059605568143,0 -86.47581341950269,34.57060900649327,0 -86.47586117310139,34.57064479932527,0 -86.47591677665591,34.57068383305492,0 -86.47600052657201,34.57070595366298,0 -86.47607168645598,34.57067658618757,0 -86.4761074051104,34.57063401626527,0 -86.47615877269382,34.57061100767577,0 -86.47620998144075,34.57058157954253,0 -86.47625318046708,34.57054261521147,0 -86.47626887933903,34.57048120709222,0 -86.4762689049727,34.57042626656064,0 -86.47629241482416,34.57037134202253,0 -86.47633936046984,34.57030365320133,0 -86.47642518977375,34.57022661520015,0 -86.47642154947539,34.57012312111593,0 -86.47572046281459,34.57011178237952,0 -86.47561224290281,34.57053116135528,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Boundaries</name>
+			<open>1</open>
+			<Placemark>
+				<name>Center Line</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<ExtendedData>
+					<Data name="name">
+						<value>Center Line</value>
+					</Data>
+					<Data name="notes">
+					</Data>
+					<Data name="id">
+						<value>b32aa2ed-405b-43f8-99f4-998f5d64e497</value>
+					</Data>
+					<Data name="type">
+						<value>Line</value>
+					</Data>
+					<Data name="color">
+						<value>rgba(255,255,0,1)</value>
+					</Data>
+					<Data name="style">
+						<value>dot</value>
+					</Data>
+					<Data name="weight">
+						<value>2.0</value>
+					</Data>
+				</ExtendedData>
+				<LineString>
+					<coordinates>
+						-86.475567,34.570865,0 -86.481528,34.570882,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Property Boundary</name>
+				<styleUrl>#lineStyle</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-86.475692,34.570128,0 -86.481525,34.570182,0 -86.481516,34.571632,0 -86.475441,34.571717,0 -86.475567,34.571256,0 -86.47556,34.570594,0 -86.475692,34.570128,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Survey</name>
+			<Placemark>
+				<name>Call 01</name>
+				<description>N 89°21&apos;15.1&quot; W — 1752.3 ft</description>
+				<styleUrl>#callStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47860850000001,34.570155,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Call 02</name>
+				<description>N 0°17&apos;34.2&quot; E — 529.0 ft</description>
+				<styleUrl>#callStyle</styleUrl>
+				<Point>
+					<coordinates>-86.4815205,34.570907,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Call 03</name>
+				<description>N 89°1&apos;29.2&quot; E — 1825.2 ft</description>
+				<styleUrl>#callStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47847849999999,34.5716745,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Call 04</name>
+				<description>S 12°41&apos;0.5&quot; W — 172.4 ft</description>
+				<styleUrl>#callStyle</styleUrl>
+				<Point>
+					<coordinates>-86.475504,34.5714865,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Call 05</name>
+				<description>S 0°29&apos;55.9&quot; E — 241.5 ft</description>
+				<styleUrl>#callStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47556350000001,34.570925,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Call 06</name>
+				<description>S 13°7&apos;45.6&quot; W — 174.6 ft</description>
+				<styleUrl>#callStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47562600000001,34.570361,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Paint</name>
+			<Placemark>
+				<name>P-01</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47602487,34.57013108,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-02</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47635774,34.57013416,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-03</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47669061000001,34.57013724,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-04</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47702348,34.57014033,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-05</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47735634999999,34.57014341,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-06</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47768922,34.57014649,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-07</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47802209,34.57014957,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-08</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47835496,34.57015265,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-09</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47868783,34.57015573,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-10</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47902070000001,34.57015882,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-11</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47935357,34.5701619,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-12</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47968643999999,34.57016498,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-13</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.48001931,34.57016806,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-14</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.48035218,34.57017114,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-15</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.48068505000001,34.57017422,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-16</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.48101792,34.57017731,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-17</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.48135078999999,34.57018039,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-18</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.48152419,34.57031265,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-19</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.48152249,34.57058676,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-20</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.48152079,34.57086087,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-21</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.48151908,34.57113498,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-22</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.48151738,34.57140909,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-23</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.48145383000001,34.57163287,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-24</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.48112098,34.57163753,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-25</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.48078812999999,34.57164218,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-26</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.48045528,34.57164684,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-27</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.48012242999999,34.5716515,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-28</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47978958,34.57165616,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-29</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47945673,34.57166081,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-30</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47912388,34.57166547,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-31</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47879103,34.57167013,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-32</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47845818,34.57167478,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-33</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47812533,34.57167944,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-34</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47779249,34.5716841,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-35</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47745964000001,34.57168876,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-36</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47712679,34.57169341,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-37</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47679393999999,34.57169807,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-38</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47646109,34.57170273,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-39</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47612823999999,34.57170738,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-40</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47579539,34.57171204,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-41</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47546254,34.5717167,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-42</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47550936,34.57146688,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-43</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47556639,34.57119805,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-44</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47556349,34.57092394,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-45</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47556059,34.57064984,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>P-46</name>
+				<styleUrl>#ppStyle</styleUrl>
+				<Point>
+					<coordinates>-86.47562021,34.57038143,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Document>
+			<name>Cameras</name>
+			<StyleMap id="camStyle17">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#camStyle19</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#camStyle18</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="camStyle18">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Style id="camStyle19">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Style id="camStyle20">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
+			<Placemark>
+				<name>Cam-01</name>
+				<styleUrl>#camStyle17</styleUrl>
+				<Point>
+					<coordinates>-86.4761184479177,34.57015702908733,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cam-02</name>
+				<styleUrl>#camStyle20</styleUrl>
+				<Point>
+					<coordinates>-86.47756481,34.57014534,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cam-03</name>
+				<styleUrl>#camStyle20</styleUrl>
+				<Point>
+					<coordinates>-86.47943763000001,34.57016268,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cam-04</name>
+				<styleUrl>#camStyle20</styleUrl>
+				<Point>
+					<coordinates>-86.48131044,34.57018001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cam-05</name>
+				<styleUrl>#camStyle20</styleUrl>
+				<Point>
+					<coordinates>-86.48130772,34.57163491,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cam-06</name>
+				<styleUrl>#camStyle20</styleUrl>
+				<Point>
+					<coordinates>-86.47943501,34.57166112,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cam-07</name>
+				<styleUrl>#camStyle20</styleUrl>
+				<Point>
+					<coordinates>-86.4775623,34.57168732,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cam-08</name>
+				<styleUrl>#camStyle20</styleUrl>
+				<Point>
+					<coordinates>-86.47568959,34.57171352,0</coordinates>
+				</Point>
+			</Placemark>
+		</Document>
+		<Placemark>
+			<name>Road Estimate</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-86.47571650651909,34.57012489655727,0 -86.47609931840023,34.57013036406344,0 -86.47616270383162,34.57016692993368,0 -86.47620209659516,34.57020927370443,0 -86.47624927646203,34.57026126665685,0 -86.47627672957481,34.57031962123302,0 -86.47630807008041,34.57036814203108,0 -86.47631199486888,34.57042304139664,0 -86.47631977445255,34.57048436276033,0 -86.47631200549962,34.57053931881224,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Folder>
+			<name>Bearings</name>
+			<Placemark>
+				<name>BearingPt_A</name>
+				<LookAt>
+					<longitude>-86.47554088113206</longitude>
+					<latitude>34.57014375256055</latitude>
+					<altitude>0</altitude>
+					<heading>0.7274747899265078</heading>
+					<tilt>30.0585498611479</tilt>
+					<range>68.53997456546639</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#camStyle9</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.475692,34.57012,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BearingPt_B</name>
+				<LookAt>
+					<longitude>-86.47569200033944</longitude>
+					<latitude>34.57017749054958</latitude>
+					<altitude>0</altitude>
+					<heading>1.593207426732057e-09</heading>
+					<tilt>0</tilt>
+					<range>999.7897095185307</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#camStyle3</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.481525,34.570182,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BearingPt_C</name>
+				<LookAt>
+					<longitude>-86.48083631086629</longitude>
+					<latitude>34.57158744953504</latitude>
+					<altitude>0</altitude>
+					<heading>0.04597645943360656</heading>
+					<tilt>39.54390058843364</tilt>
+					<range>320.7713343427868</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#camStyle1</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.481516,34.571632,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BearingPt_D</name>
+				<LookAt>
+					<longitude>-86.47516487805639</longitude>
+					<latitude>34.57176386819379</latitude>
+					<altitude>0</altitude>
+					<heading>0.02097691722485938</heading>
+					<tilt>0</tilt>
+					<range>154.4061371485744</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#camStyle11</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.475441,34.571717,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BearingPt_E</name>
+				<LookAt>
+					<longitude>-86.47542688247206</longitude>
+					<latitude>34.57129888230308</latitude>
+					<altitude>0</altitude>
+					<heading>0.01100606987740086</heading>
+					<tilt>0</tilt>
+					<range>115.8568217749929</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#camStyle16</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.475567,34.571256,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BearingPt_F</name>
+				<LookAt>
+					<longitude>-86.47549177658726</longitude>
+					<latitude>34.57055046233509</latitude>
+					<altitude>0</altitude>
+					<heading>1.263372457557236</heading>
+					<tilt>0</tilt>
+					<range>59.77306041441402</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#camStyle7</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-86.47556,34.570594,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<GroundOverlay>
+			<name>Topo Map</name>
+			<Icon>
+				<href>Rock Springs Property/Possum Holler Topo Map.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>34.57870147641847</north>
+				<south>34.56138971181356</south>
+				<east>-86.46815966621828</east>
+				<west>-86.49521048527565</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	</Folder>
+</Document>
+</kml>

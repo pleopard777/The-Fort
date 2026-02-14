@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Sign.kml</name>
+	<StyleMap id="failed00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="failed6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_D0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_D0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_D0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_D">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_D0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_D">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_D0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/D-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>007 Sign</name>
+		<open>1</open>
+		<Placemark>
+			<name>Skull</name>
+			<styleUrl>#msn_D</styleUrl>
+			<ExtendedData>
+				<Data name="name">
+					<value>Skull</value>
+				</Data>
+				<Data name="notes">
+				</Data>
+				<Data name="id">
+					<value>4610f81e-77de-4b88-bc3a-fe1d682c8ccc</value>
+				</Data>
+				<Data name="color">
+					<value>rgba(255,51,0,1)</value>
+				</Data>
+				<Data name="icon">
+					<value>Point of Interest</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.47726,34.570141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Buck Jump 11/29/25 11:36</name>
+			<styleUrl>#msn_D</styleUrl>
+			<ExtendedData>
+				<Data name="name">
+					<value>Buck Jump 11/29/25 11:36</value>
+				</Data>
+				<Data name="notes">
+				</Data>
+				<Data name="id">
+					<value>648b6202-a245-4c50-8753-15f171ff933a</value>
+				</Data>
+				<Data name="color">
+					<value>rgba(255,51,0,1)</value>
+				</Data>
+				<Data name="icon">
+					<value>Buck</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.47812999999999,34.57033,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rubs Small 11/29/25</name>
+			<styleUrl>#failed00</styleUrl>
+			<Point>
+				<coordinates>-86.47966,34.57081,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rub cedar 11/29/25</name>
+			<styleUrl>#msn_D0</styleUrl>
+			<ExtendedData>
+				<Data name="name">
+					<value>Rub cedar 11/29/25</value>
+				</Data>
+				<Data name="notes">
+				</Data>
+				<Data name="id">
+					<value>8852e331-a709-40f4-9f00-dda2f6bc8ae8</value>
+				</Data>
+				<Data name="color">
+					<value>rgba(0,255,255,1)</value>
+				</Data>
+				<Data name="icon">
+					<value>Rub</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.47973399999999,34.570659,0</coordinates>
+			</Point>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	</Folder>
+</Document>
+</kml>

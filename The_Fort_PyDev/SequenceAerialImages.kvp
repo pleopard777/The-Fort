@@ -1,0 +1,52 @@
+# SequenceAerialImages.kvp
+#
+# SequenceAerialImages.kvp  (for SequenceAerialImages.py V004 FINAL)
+#
+# Save this file in the SAME folder as SequenceAerialImages.py
+#
+# Format:
+#   key = value
+# Comments begin with '#'
+# Inline comments are supported if written as " #...".
+#
+# Required keys:
+#   source_dir
+#   composite_tif
+#
+# Optional keys:
+#   output_subdir
+#   overwrite_existing   (true/false)
+#   recurse_source       (true/false)
+#   force_output_ext     (e.g., .jpg)
+#
+# ------------------------------------------------------------------------
+# REQUIRED
+# ------------------------------------------------------------------------
+
+# Folder containing your source aerial images.
+# This directory should contain files like:
+#   RockSpringRd_120925_Aerial (1).jpg
+#   RockSpringRd_120925_Aerial (192).png
+#
+# Best-guess default based on your project structure. Update as needed.
+source_dir = "F:/The_Fort/The_Fort_QGIS/01_Source_Raw/Aerial Images"
+
+# Composite ortho-rectified GeoTIFF used to compute AOI metadata.
+# Best-guess default based on your composite directory screenshot. Update as needed.
+composite_tif = "F:/The_Fort/The_Fort_QGIS/01_Source_Raw/Ortho Imagery/RockSpringRd_120925_OrthoImage_fullres.tif"
+
+# ------------------------------------------------------------------------
+# OPTIONAL
+# ------------------------------------------------------------------------
+
+# Name of the output folder created INSIDE source_dir
+output_subdir = "Sequenced"
+
+# If false, do not copy files that already exist in the output folder (recommended)
+overwrite_existing = false
+
+# If true, search for source images recursively under source_dir
+recurse_source = false
+
+# Destination filename extension used by the naming convention (NO format conversion is performed)
+force_output_ext = ".jpg"

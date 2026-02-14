@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>OnX Boundary Lines</name>
+    <Style id="boundaryStyle">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <fill>0</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+
+    <Placemark>
+      <name>Boundary</name>
+      <styleUrl>#boundaryStyle</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              -86.475681,34.570121,0.0 -86.481519,34.570160,0.0 -86.481513,34.571613,0.0 -86.475433,34.571688,0.0 -86.475560,34.571230,0.0 -86.475555,34.570565,0.0 -86.475681,34.570121,0.0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

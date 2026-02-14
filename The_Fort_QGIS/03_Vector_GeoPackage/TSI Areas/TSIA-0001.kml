@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>TSIA-0001.kml</name>
+	<StyleMap id="default">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#default0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="default0">
+	</Style>
+	<Style id="hl">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>TSIA-0001</name>
+		<styleUrl>#default</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>great spot to exp w TSI</value>
+			</Data>
+			<Data name="notes">
+			</Data>
+			<Data name="id">
+				<value>d6247317-8273-46db-9fc7-7ecca530aa5f</value>
+			</Data>
+			<Data name="color">
+				<value>rgba(8,122,255,1)</value>
+			</Data>
+			<Data name="icon">
+				<value>Location</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-86.478852,34.571551,0</coordinates>
+		</Point>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	</Placemark>
+</Document>
+</kml>
