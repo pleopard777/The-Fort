@@ -1,0 +1,10 @@
+.spyproject
+%localappdata%
+*.pyc
+*$py.class
+__pycache__
+.git
+desktop.ini
+/Camera Data
+/The_Fort_QGIS/01_Source_Raw/
+/Drone Data Backup - SRC-RAW/
