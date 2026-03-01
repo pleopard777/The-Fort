@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Placemark>
+	<name>Cave #3</name>
+	<ExtendedData>
+		<Data name="name">
+			<value>cave 3</value>
+		</Data>
+		<Data name="notes">
+		</Data>
+		<Data name="id">
+			<value>36178489-c0d9-466d-ba76-8390646d1222</value>
+		</Data>
+		<Data name="color">
+			<value>rgba(0, 0, 0, 1)</value>
+		</Data>
+		<Data name="icon">
+			<value>Location</value>
+		</Data>
+	</ExtendedData>
+	<Point>
+		<coordinates>-86.47712300000001,34.570841,0</coordinates>
+	</Point>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+</Placemark>
+</kml>
