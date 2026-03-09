@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Center Line.kml</name>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Center Line</name>
+		<styleUrl>#msn_ylw-pushpin4</styleUrl>
+		<ExtendedData>
+			<Data name="name">
+				<value>Center Line</value>
+			</Data>
+			<Data name="notes">
+			</Data>
+			<Data name="id">
+				<value>b32aa2ed-405b-43f8-99f4-998f5d64e497</value>
+			</Data>
+			<Data name="type">
+				<value>Line</value>
+			</Data>
+			<Data name="color">
+				<value>rgba(255,255,0,1)</value>
+			</Data>
+			<Data name="style">
+				<value>dot</value>
+			</Data>
+			<Data name="weight">
+				<value>2.0</value>
+			</Data>
+		</ExtendedData>
+		<LineString>
+			<coordinates>
+				-86.475567,34.570865,0 -86.481528,34.570882,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1094"></atom:link>
+	</Placemark>
+</Document>
+</kml>

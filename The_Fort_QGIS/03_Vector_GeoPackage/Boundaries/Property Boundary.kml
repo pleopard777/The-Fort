@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Property Boundary.kml</name>
+	<Style id="lineStyle">
+		<LineStyle>
+			<color>ff00aaff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Property Boundary</name>
+		<styleUrl>#lineStyle</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-86.475692,34.570128,0 -86.481525,34.570182,0 -86.481516,34.571632,0 -86.475441,34.571717,0 -86.475567,34.571256,0 -86.47556,34.570594,0 -86.475692,34.570128,0 
+			</coordinates>
+		</LineString>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1094"></atom:link>
+	</Placemark>
+</Document>
+</kml>
